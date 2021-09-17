@@ -3,6 +3,7 @@
 #include <vector>
 #include <algorithm>
 #include <unistd.h>
+#include <sqlite3.h>
 
 class User {
         std::string fUsername;
